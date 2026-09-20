@@ -1,124 +1,59 @@
-## Hi there 👋
-<div align="center">
-  <!-- Replace logo.png with your actual logo file -->
-  <img src="./logo.png" alt="Abdel Logo" width="120"/>
+# Hi, I'm Abdelhamid Oughanem 👋
 
-  # Abdel 👋  
-  **QA Software Engineer | Future QA Automation Engineer**
+### Software Development Student | QA Automation & SDET
 
-  🧪 Quality • 🔍 Reliability • 🤖 Automation  
-  📍 Canada
-</div>
+📍 Winnipeg, Canada | Open to opportunities across Canada
 
----
+I'm an Application Design & Delivery student at RRC Polytech, specializing in software quality, test automation, and modern web development.
 
-## 👨‍💻 About Me
+I enjoy building applications, understanding how they work, identifying defects, and improving software reliability through automated testing.
 
-I am a **QA Software Engineer** with a strong technical background and a clear career path toward **QA Automation Engineering**.
-
-I combine **quality assurance mindset** with **hands-on development skills**, allowing me to:
-- Understand applications deeply
-- Identify edge cases early
-- Design reliable, testable systems
-- Collaborate efficiently with developers
-
-I am currently preparing for the **ISTQB Foundation Level certification** and continuously building projects to strengthen my automation and testing expertise.
-
----
-
-## 🎯 Career Focus
-
-- ✅ Manual Testing (functional, regression, exploratory)
-- 🚧 QA Automation (in progress)
-- 🧠 Test design & quality strategy
-- 🔄 CI-friendly testing mindset
-
----
+My goal is to contribute to engineering teams as a Junior SDET, QA Automation Engineer, or Software Developer.
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming & Web
-- **Languages:** JavaScript, Python, HTML, CSS, SQL
-- **Backend:** Node.js, Express
-- **Databases:** SQL-based systems
-- **Web Development:** Creating and maintaining websites for local businesses
+**Languages:** JavaScript, TypeScript, HTML, CSS
 
-### 🧪 Quality Assurance
-- Test case design & execution  
-- Bug reporting & defect lifecycle  
-- Regression & exploratory testing  
-- API testing fundamentals  
-- Understanding of SDLC & STLC  
+**Development:** React, Node.js (where applicable)
 
-### 🤖 Automation (Learning & Practicing)
-- Test automation concepts
-- JavaScript & Python for automation
-- Test frameworks (in progress)
-- Writing maintainable and reusable test scripts
+**Testing:** Manual Testing, Test Design, Playwright (learning), API Testing (learning)
 
-### 🧰 Tools
-- Git & GitHub
-- VS Code
-- Postman
-- Jest (basic)
-- Browser DevTools
+**Tools:** Git, GitHub, VS Code
 
----
+**Currently Learning:** Playwright, Postman, CI/CD, Azure DevOps
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 Event Registration Service – REST API
-**Focus:** Backend logic, validation, testing readiness  
-- CRUD operations  
-- Proper HTTP status codes  
-- TypeScript structure  
-👉 https://github.com/rrcw2025oabdel/event-registration
+### TransitCare — Full Stack & Quality Engineering
+A transit complaint management application developed as an academic team project.
 
-### 🔹 QA Practice & Testing Projects
-**Focus:** Test cases, scenarios, and quality thinking  
-- Manual test cases
-- Requirements traceability
-- Bug documentation  
-👉 *(Add repo link when ready)*
+- React and TypeScript development
+- Agile collaboration and Git workflows
+- Manual test design and automated testing (as implemented)
 
-### 🔹 Web Development for Local Businesses
-**Focus:** Real-world websites & client needs  
-- Responsive design
-- Clean UI
-- Performance & usability  
-👉 *(Add repo or portfolio link)*
+[View Repository](YOUR_REPOSITORY_URL)
 
-👉 **View all repositories:**  
-https://github.com/rrcw2025oabdel?tab=repositories
+### QA Automation Framework
+A Playwright and TypeScript testing project.
+
+[View Repository](YOUR_REPOSITORY_URL)
+
+### API Testing Portfolio
+A collection of documented REST API tests.
+
+[View Repository](YOUR_REPOSITORY_URL)
+
+## 🎓 Education & Professional Development
+
+Application Design & Delivery — RRC Polytech
+Expected graduation: May 2027
+
+ISTQB Certified Tester Foundation Level — Preparing for exam
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/abdelhamid-oughanem-3411a447)
 
 ---
 
-## 📚 Certifications & Learning
-
-- 🎓 **ISTQB Foundation Level** — *In progress*
-- Continuous learning in:
-  - QA Automation
-  - Testing best practices
-  - Software quality engineering
-
----
-
-## 🤝 What I Bring to a Team
-
-- Strong **attention to detail**
-- Quality-first mindset
-- Ability to think like a **user and a developer**
-- Clear communication of defects and risks
-- Motivation to grow into **QA Automation**
-
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: *(add link)*
-- 🌐 Portfolio: *(optional)*
-- ✉️ Email: *(professional email)*
-
----
-
-> *“Quality is not an act, it is a habit.”*
+*Interested in software quality, automation, and building reliable applications.*
