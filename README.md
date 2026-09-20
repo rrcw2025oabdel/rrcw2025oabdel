@@ -1,6 +1,6 @@
 # Hi, I'm Abdelhamid Oughanem 👋
 
-### Software Development Student | QA Automation & SDET
+### Software Development Student | QA Automation & SDET | ISTQB Foundation Level certified 
 
 📍 Winnipeg, Canada | Open to opportunities across Canada
 
@@ -12,15 +12,15 @@ My goal is to contribute to engineering teams as a Junior SDET, QA Automation En
 
 ## 🛠️ Technical Skills
 
-**Languages:** JavaScript, TypeScript, HTML, CSS
+**Languages:** JavaScript, TypeScript, HTML, CSS, Python
 
-**Development:** React, Node.js (where applicable)
+**Development:** React, Node.js 
 
 **Testing:** Manual Testing, Test Design, Playwright (learning), API Testing (learning)
 
-**Tools:** Git, GitHub, VS Code
+**Tools:** Git, GitHub, VS Code, Jira, Trello
 
-**Currently Learning:** Playwright, Postman, CI/CD, Azure DevOps
+**Currently Learning:** Playwright, Postman, CI/CD, Azure DevOps, AWS
 
 ## 🚀 Featured Projects
 
